@@ -1,0 +1,11 @@
+Entrar na classe AcessoLeitor.java e alterar os seguintes atributos:
+ip = colocar ip do leitor de biometria
+login = colocar o usuario do leitor de biometria
+senha = colocar a senha do leitor de biometria
+
+salvar a classe
+clicar com botã odireito do mouse sobre o projeto e limpar e contruir (Build)
+será criado dentro da pasta dist o jar.
+copiar todo diretorio "dist".
+pegar o arquivo leito.bat e salvar dentro da pasta dist.
+Executar pelo arquivo leitor.bat.

@@ -1,0 +1,1 @@
+java -jar ModuloIntegracaoQuantumV1.2.jar
